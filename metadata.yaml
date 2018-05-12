@@ -1,0 +1,33 @@
+_repo: The-Radicalism-of-Shelley-and-Its-Sources_35495
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: MacDonald, Daniel J.
+    birthdate: 1881
+    gutenberg_agent_id: '37713'
+    url: http://www.gutenberg.org/2009/agents/37713
+description: Shelley stood in defiant opposition to many of the cultural and political
+  expectations of early 19th-century England. He was expelled from Oxford for his
+  vocal criticisms of religion, and his second wife, Mary, came from a family of social
+  reformers and cultural agitators. This doctoral dissertation examines the roots
+  of Shelley's radicalism and the effect that it had on his work.
+gutenberg_issued: '2011-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35495'
+  lccn: '21009014'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shelley, Percy Bysshe, 1792-1822 -- Political and social views'
+- !lcc 'PR'
+- !lcsh 'Radicalism -- Great Britain -- History -- 19th century'
+- !lcsh 'Politics and literature -- Great Britain -- History -- 19th century'
+- !lcsh 'Radicalism in literature'
+title: The Radicalism of Shelley and Its Sources
+url: http://www.gutenberg.org/ebooks/35495
